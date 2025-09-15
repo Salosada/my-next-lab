@@ -3,7 +3,7 @@ export default function Home() {
   return <h1>¡Cambio automático con Vercel 🔄!</h1>;
 }
 */
-
+/*
   export default function Home() {
   return (
     <main style={{ padding: "2rem", fontFamily: "sans-serif" }}>
@@ -22,10 +22,9 @@ export default function Home() {
     </main>
   );
 }
+*/
 
 
-
-/*
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 text-white">
@@ -48,4 +47,3 @@ export default function Home() {
     </main>
   );
 }
-*/
